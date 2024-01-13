@@ -10,4 +10,4 @@ setInterval(function () {
         number.innerText = counter + "%";
     }
 
-}, 30)
+}, 20)
